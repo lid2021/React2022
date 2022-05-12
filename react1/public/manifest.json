@@ -1,0 +1,25 @@
+{
+    "nombre_corto" : " Aplicación React " ,
+    "nombre" : " Crear ejemplo de aplicación React " ,
+    "iconos" : [
+      {
+        "origen" : " favicon.ico " ,
+        "tamaños" : " 64x64 32x32 24x24 16x16 " ,
+        "tipo" : " imagen/icono x "
+      },
+      {
+        "origen" : " logo192.png " ,
+        "tipo" : " imagen/png " ,
+        "tamaños" : " 192x192 "
+      },
+      {
+        "origen" : " logo512.png " ,
+        "tipo" : " imagen/png " ,
+        "tamaños" : " 512x512 "
+      }
+    ],
+    "url_inicio" : " . " ,
+    "pantalla" : " independiente " ,
+    "tema_color" : " #000000 " ,
+    "color_de_fondo" : " #ffffff "
+  }

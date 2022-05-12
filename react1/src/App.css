@@ -1,0 +1,38 @@
+. aplicación {
+    alineación de texto : centro;
+  }
+  
+  . Logotipo de la aplicación {
+    altura :  40 vmin ;
+    puntero-eventos : ninguno;
+  }
+  
+  @media ( prefiere-movimiento-reducido : sin preferencia) {
+    . Logotipo de la aplicación {
+      animación : App-logo-spin infinito 20 s lineal;
+    }
+  }
+  
+  . Encabezado de la aplicación {
+    color de fondo :  # 282c34 ;
+    min-altura :  100 vh ;
+    pantalla : flexible;
+    dirección de flexión : columna;
+    alinear elementos : centro;
+    justificar-contenido : centro;
+    tamaño de fuente :  calc ( 10 px  +  2 vmin );
+    color : blanco;
+  }
+  
+  . Enlace de la aplicación {
+    color :  # 61dafb ;
+  }
+  
+  @keyframes App-logo-giro {
+    de {
+      transformar :  rotar ( 0 grados );
+    }
+    a {
+      transformar :  rotar ( 360 grados );
+    }
+  }

@@ -1,0 +1,38 @@
+{
+    "nombre" : " proyecto1 " ,
+    "versión" : " 0.1.0 " ,
+    "privado" : cierto ,
+    "dependencias" : {
+      "@testing-library/jest-dom" : " ^5.16.4 " ,
+      "@testing-library/react" : " ^13.2.0 " ,
+      "@testing-library/user-event" : " ^13.5.0 " ,
+      "reaccionar" : " ^18.1.0 " ,
+      "reaccionar-dom" : " ^18.1.0 " ,
+      "guiones de reacción" : " 5.0.1 " ,
+      "web-vitals" : " ^2.1.4 "
+    },
+    "guiones" : {
+      "inicio" : " reaccionar scripts iniciar " ,
+      "construir" : " reaccionar scripts construir " ,
+      "prueba" : " prueba de scripts de reacción " ,
+      "expulsar" : " reaccionar scripts expulsar "
+    },
+    "eslintConfig" : {
+      "extiende" : [
+        " aplicación de reacción " ,
+        " reaccionar-aplicación/broma "
+      ]
+    },
+    "lista de navegadores" : {
+      "producción" : [
+        " >0.2% " ,
+        " no muerto " ,
+        " no op_mini todo "
+      ],
+      "desarrollo" : [
+        " Última 1 versión de Chrome " ,
+        " última 1 versión de firefox " ,
+        " Última 1 versión de safari "
+      ]
+    }
+  }

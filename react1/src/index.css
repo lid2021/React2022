@@ -1,0 +1,14 @@
+cuerpo {
+    margen :  0 ;
+    familia de fuentes : -sistema de manzana , BlinkMacSystemFont ,  'Segoe UI' ,  'Roboto' ,  'Oxygen' ,
+      'Ubuntu' ,  'Cantarell' ,  'Fira Sans' ,  'Droid Sans' ,  'Helvetica Neue' ,
+      sans-serif;
+    -webkit-font-smoothing : suavizado;
+    -moz-osx-font-smoothing : escala de grises;
+  }
+  
+  código {
+    familia de fuentes : código fuente-pro , Menlo , Mónaco , Consolas ,  'Courier New' ,
+      monoespacio;
+  }
+ 
